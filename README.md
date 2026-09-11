@@ -6,6 +6,10 @@
   <a href="#about">关于我</a> · <a href="#work">精选作品</a> · <a href="#skills">Skills</a> · <a href="https://github.com/yuanhao667?tab=repositories">全部项目 ↗</a>
 </p>
 
+<p align="center">
+  <a href="https://www.xiaohongshu.com/user/profile/5b83e0b5f43cbe000168305f">小红书 ↗</a> &nbsp;·&nbsp; 公众号：<strong>圆号未定稿</strong>（微信内搜索）
+</p>
+
 <br>
 
 <a id="about"></a>
