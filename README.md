@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#about"><img src="./badge-about.svg" height="26" alt="关于我 · About"></a>&nbsp;
   <a href="#work"><img src="./badge-work.svg" height="26" alt="精选作品 · Projects"></a>&nbsp;
-  <a href="#skills"><img src="./badge-skills.svg" height="26" alt="Skills · Browse"></a>&nbsp;
+  <a href="https://github.com/yuanhao667/Skills"><img src="./badge-skills.svg" height="26" alt="Skills · Browse"></a>&nbsp;
   <a href="https://github.com/yuanhao667?tab=repositories"><img src="./badge-repos.svg" height="26" alt="全部项目 · GitHub"></a>
 </p>
 
@@ -22,8 +22,6 @@
 **AI PM · AI Designer · AI Builder**
 
 关注 AI 产品、交互设计与工具构建。我的作品从天气穿搭延伸到 Prompt 编辑、多模型对比，也把产品分析、写作和评测中的工作方法整理成可复用的 Skills。
-
-这里放着我的产品实践，以及一路积累下来的工具与方法。
 
 <br>
 
@@ -44,6 +42,8 @@
 
 [查看项目 ↗](https://github.com/yuanhao667/Prompt-Studio)
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -56,6 +56,8 @@
 <sub>Apple Silicon · 多模型对比 · 多模态</sub>
 
 [查看项目 ↗](https://github.com/yuanhao667/model-battle)
+
+<br>
 
 </td>
 </tr>
@@ -72,6 +74,8 @@
 
 [查看项目 ↗](https://github.com/yuanhao667/wearcue)
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -84,6 +88,8 @@
 <sub>Agent Skills · 产品工作流 · 内容创作</sub>
 
 [浏览 Skills ↗](https://github.com/yuanhao667/Skills)
+
+<br>
 
 </td>
 </tr>
@@ -98,17 +104,6 @@
 | :--- | :--- | :--- |
 | 从用户任务和使用场景出发，明确产品要解决的问题，再用评测检查实际效果。 | 把需求与交互做成可操作的原型和工具，通过真实使用发现问题、持续修改。 | 把分析、写作与复盘整理成文档，让反复验证过的方法成为可复用的 Skills。 |
 | `PRD` · `产品分析` · `评测助手` | `Figma` · `Codex` · `Prompt Studio` | `飞书` · `Notion` · `Markdown` · `Skills` |
-
-<br>
-
-<a id="skills"></a>
-## 从项目里长出来的方法
-
-| 方向 | 我整理的 Skills |
-| :--- | :--- |
-| **产品与需求** | [PRD](https://github.com/yuanhao667/Skills/tree/main/skills/prd) · [产品分析](https://github.com/yuanhao667/Skills/tree/main/skills/product-analysis) |
-| **写作与表达** | [中文写作](https://github.com/yuanhao667/Skills/tree/main/skills/human-writing) · [Red Book](https://github.com/yuanhao667/Skills/tree/main/skills/red-book) · [README Plus](https://github.com/yuanhao667/Skills/tree/main/skills/readme-plus) |
-| **评测与整理** | [评测助手](https://github.com/yuanhao667/Skills/tree/main/skills/evaluation-assistant) · [飞书文档增量融合](https://github.com/yuanhao667/Skills/tree/main/skills/feishu-doc-incremental-merge) |
 
 <br>
 
