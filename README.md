@@ -2,6 +2,15 @@
   <img src="./python-card-light.svg" width="100%" alt="Yuanhao 的动态 Python 代码名片：AI PM · AI Designer · AI Builder">
 </p>
 
+<a id="about"></a>
+## 你好，我是 Yuanhao
+
+**AI PM · AI Designer · AI Builder**
+
+关注 AI 产品、交互设计与工具构建。我的作品从天气穿搭延伸到 Prompt 编辑、多模型对比，也把产品分析、写作和评测中的工作方法整理成可复用的 Skills。
+
+<br>
+
 <p align="center">
   <a href="#about"><img src="./badge-about.svg" height="26" alt="关于我 · About"></a>&nbsp;
   <a href="#work"><img src="./badge-work.svg" height="26" alt="精选作品 · Projects"></a>&nbsp;
@@ -13,15 +22,6 @@
   <a href="https://www.xiaohongshu.com/user/profile/5b83e0b5f43cbe000168305f"><img src="./badge-xiaohongshu.svg" height="26" alt="小红书 · Follow"></a>&nbsp;
   <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzUzNTUyNTk3MQ==#wechat_redirect"><img src="./badge-wechat.svg" height="26" alt="公众号 · 圆号未定稿"></a>
 </p>
-
-<br>
-
-<a id="about"></a>
-## 你好，我是 Yuanhao
-
-**AI PM · AI Designer · AI Builder**
-
-关注 AI 产品、交互设计与工具构建。我的作品从天气穿搭延伸到 Prompt 编辑、多模型对比，也把产品分析、写作和评测中的工作方法整理成可复用的 Skills。
 
 <br>
 
