@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Yuanhao — AI PM · AI Designer · AI Builder</title>
+  <desc id="desc">把想法做成工具，把经验写成 Skills。</desc>
+  <rect x="1" y="1" width="1198" height="438" rx="22" fill="#F6F4EE" stroke="#DEDAD0" stroke-width="2"/>
+  <path d="M56 83H1144M56 367H1144" stroke="#D9D5CB"/>
+  <circle cx="63" cy="48" r="5" fill="#D56038"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="82" y="54" font-size="18" font-weight="600" letter-spacing="3" fill="#393A36">YUANHAO</text>
+    <text x="1142" y="53" text-anchor="end" font-size="13" letter-spacing="2" fill="#73766E">PRODUCT / DESIGN / BUILD</text>
+    <text x="56" y="168" font-size="16" letter-spacing="1" fill="#AA4F32">AI PM · AI Designer · AI Builder</text>
+    <text x="52" y="241" font-size="54" font-weight="650" fill="#252A25">把想法做成工具，</text>
+    <text x="52" y="313" font-size="54" font-weight="650" fill="#252A25">把经验写成 <tspan fill="#C35734">Skills.</tspan></text>
+    <text x="56" y="406" font-size="14" fill="#74766E" letter-spacing="2">产品实践 / 原生工具 / 可复用的方法</text>
+    <text x="1142" y="406" text-anchor="end" font-size="14" fill="#74766E">github.com/yuanhao667 ↗</text>
+    <g transform="translate(860 120)">
+      <rect x="32" y="10" width="226" height="198" rx="13" fill="#EBE8DF" stroke="#DCD7CC" transform="rotate(7 145 110)"/>
+      <rect x="0" y="8" width="246" height="208" rx="13" fill="#FCFBF7" stroke="#DCD7CC"/>
+      <text x="23" y="47" font-size="12" letter-spacing="2" fill="#88897E">ON MY WORKBENCH</text>
+      <path d="M23 65H223" stroke="#E3DFD5"/>
+      <text x="23" y="99" font-size="14" fill="#B15D3E">01</text>
+      <text x="60" y="99" font-size="17" fill="#383D35">Prompt Studio</text>
+      <text x="23" y="139" font-size="14" fill="#B15D3E">02</text>
+      <text x="60" y="139" font-size="17" fill="#383D35">Model Battle</text>
+      <text x="23" y="179" font-size="14" fill="#B15D3E">03</text>
+      <text x="60" y="179" font-size="17" fill="#383D35">WearCue + Skills</text>
+    </g>
+  </g>
+</svg>
