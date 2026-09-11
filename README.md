@@ -110,6 +110,5 @@
 ---
 
 <p align="center">
-  <sub>YUANHAO / 产品 · 设计 · 构建</sub><br>
-  <sub>欢迎在项目 Issues 里交流使用体验、问题与建议。</sub>
+  <sub>YUANHAO / 产品 · 设计 · 构建</sub>
 </p>
