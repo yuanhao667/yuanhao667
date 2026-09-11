@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://www.xiaohongshu.com/user/profile/5b83e0b5f43cbe000168305f"><img src="./badge-xiaohongshu.svg" height="26" alt="小红书 · Follow"></a>&nbsp;
-  <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzUzNTUyNTk3MQ==#wechat_redirect"><img src="./badge-wechat.svg" height="26" alt="公众号 · 圆号未定稿"></a>
+  <img src="./badge-wechat.svg" height="26" alt="公众号 · 圆号未定稿">
 </p>
 
 <br>
