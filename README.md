@@ -3,11 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="#about">关于我</a> · <a href="#work">精选作品</a> · <a href="#skills">Skills</a> · <a href="https://github.com/yuanhao667?tab=repositories">全部项目 ↗</a>
+  <a href="#about"><img src="./badge-about.svg" height="26" alt="关于我 · About"></a>&nbsp;
+  <a href="#work"><img src="./badge-work.svg" height="26" alt="精选作品 · Projects"></a>&nbsp;
+  <a href="#skills"><img src="./badge-skills.svg" height="26" alt="Skills · Browse"></a>&nbsp;
+  <a href="https://github.com/yuanhao667?tab=repositories"><img src="./badge-repos.svg" height="26" alt="全部项目 · GitHub"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.xiaohongshu.com/user/profile/5b83e0b5f43cbe000168305f">小红书 ↗</a> &nbsp;·&nbsp; <a href="https://mp.weixin.qq.com/s/yg-Xp_cAtVKHq16GPD_-vA">公众号 · 圆号未定稿 ↗</a>
+  <a href="https://www.xiaohongshu.com/user/profile/5b83e0b5f43cbe000168305f"><img src="./badge-xiaohongshu.svg" height="26" alt="小红书 · Follow"></a>&nbsp;
+  <a href="https://mp.weixin.qq.com/s/yg-Xp_cAtVKHq16GPD_-vA"><img src="./badge-wechat.svg" height="26" alt="公众号 · 圆号未定稿"></a>
 </p>
 
 <br>
@@ -84,6 +88,16 @@
 </td>
 </tr>
 </table>
+
+<br>
+
+<a id="how-i-work"></a>
+## 我如何工作 · How I work
+
+| 产品判断 | 原型与构建 | 知识沉淀 |
+| :--- | :--- | :--- |
+| 从用户任务和使用场景出发，明确产品要解决的问题，再用评测检查实际效果。 | 把需求与交互做成可操作的原型和工具，通过真实使用发现问题、持续修改。 | 把分析、写作与复盘整理成文档，让反复验证过的方法成为可复用的 Skills。 |
+| `PRD` · `产品分析` · `评测助手` | `Figma` · `Codex` · `Prompt Studio` | `飞书` · `Markdown` · `Skills` |
 
 <br>
 
