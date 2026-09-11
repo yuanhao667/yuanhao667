@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.xiaohongshu.com/user/profile/5b83e0b5f43cbe000168305f"><img src="./badge-xiaohongshu.svg" height="26" alt="小红书 · Follow"></a>&nbsp;
-  <a href="#wechat"><img src="./badge-wechat.svg" height="26" alt="公众号 · 圆号未定稿"></a>
+  <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzUzNTUyNTk3MQ==#wechat_redirect"><img src="./badge-wechat.svg" height="26" alt="公众号 · 圆号未定稿"></a>
 </p>
 
 <br>
@@ -104,22 +104,6 @@
 | :--- | :--- | :--- |
 | 从用户任务和使用场景出发，明确产品要解决的问题，再用评测检查实际效果。 | 把需求与交互做成可操作的原型和工具，通过真实使用发现问题、持续修改。 | 把分析、写作与复盘整理成文档，让反复验证过的方法成为可复用的 Skills。 |
 | `PRD` · `产品分析` · `评测助手` | `Figma` · `Codex` · `Prompt Studio` | `飞书` · `Notion` · `Markdown` · `Skills` |
-
-<br>
-
-<a id="wechat"></a>
-## 公众号 · 圆号未定稿
-
-一个 AI 产品经理的长期未定稿。写 AI 产品，也写工作里那些没有标准答案的问题。
-
-<p align="center">
-  <img src="./wechat-qrcode.jpg" width="215" alt="圆号未定稿公众号官方二维码，微信扫码进入公众号">
-</p>
-
-<p align="center">
-  <strong>微信扫一扫，进入「圆号未定稿」</strong><br>
-  <sub>也可以在微信中搜索公众号 ID：gh_cc39e26b481a</sub>
-</p>
 
 <br>
 
