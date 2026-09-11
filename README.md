@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Yuanhao 的动态 Python 代码名片：AI PM · AI Designer · AI Builder">
+  <img src="./python-card.svg" width="100%" alt="Yuanhao 的动态 Python 代码名片：AI PM · AI Designer · AI Builder">
 </p>
 
 <p align="center">
