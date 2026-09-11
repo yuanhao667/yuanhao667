@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Yuanhao — AI PM · AI Designer · AI Builder。把想法做成工具，把经验写成 Skills。">
+  <img src="./header.svg" width="100%" alt="Yuanhao 的动态 Python 代码名片：AI PM · AI Designer · AI Builder">
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.xiaohongshu.com/user/profile/5b83e0b5f43cbe000168305f">小红书 ↗</a> &nbsp;·&nbsp; 公众号：<strong>圆号未定稿</strong>（微信内搜索）
+  <a href="https://www.xiaohongshu.com/user/profile/5b83e0b5f43cbe000168305f">小红书 ↗</a> &nbsp;·&nbsp; <a href="https://mp.weixin.qq.com/s/yg-Xp_cAtVKHq16GPD_-vA">公众号 · 圆号未定稿 ↗</a>
 </p>
 
 <br>
