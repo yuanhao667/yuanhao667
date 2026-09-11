@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.xiaohongshu.com/user/profile/5b83e0b5f43cbe000168305f"><img src="./badge-xiaohongshu.svg" height="26" alt="小红书 · Follow"></a>&nbsp;
-  <a href="https://mp.weixin.qq.com/s/yg-Xp_cAtVKHq16GPD_-vA"><img src="./badge-wechat.svg" height="26" alt="公众号 · 圆号未定稿"></a>
+  <a href="#wechat"><img src="./badge-wechat.svg" height="26" alt="公众号 · 圆号未定稿"></a>
 </p>
 
 <br>
@@ -109,6 +109,22 @@
 | **产品与需求** | [PRD](https://github.com/yuanhao667/Skills/tree/main/skills/prd) · [产品分析](https://github.com/yuanhao667/Skills/tree/main/skills/product-analysis) |
 | **写作与表达** | [中文写作](https://github.com/yuanhao667/Skills/tree/main/skills/human-writing) · [Red Book](https://github.com/yuanhao667/Skills/tree/main/skills/red-book) · [README Plus](https://github.com/yuanhao667/Skills/tree/main/skills/readme-plus) |
 | **评测与整理** | [评测助手](https://github.com/yuanhao667/Skills/tree/main/skills/evaluation-assistant) · [飞书文档增量融合](https://github.com/yuanhao667/Skills/tree/main/skills/feishu-doc-incremental-merge) |
+
+<br>
+
+<a id="wechat"></a>
+## 公众号 · 圆号未定稿
+
+一个 AI 产品经理的长期未定稿。写 AI 产品，也写工作里那些没有标准答案的问题。
+
+<p align="center">
+  <img src="./wechat-qrcode.jpg" width="215" alt="圆号未定稿公众号官方二维码，微信扫码进入公众号">
+</p>
+
+<p align="center">
+  <strong>微信扫一扫，进入「圆号未定稿」</strong><br>
+  <sub>也可以在微信中搜索公众号 ID：gh_cc39e26b481a</sub>
+</p>
 
 <br>
 
