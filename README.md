@@ -32,6 +32,6 @@
 <br>
 
 
-<p align="center">
+<p align="left">
   <sub>YUANHAO / 产品 · 设计 · 构建</sub>
 </p>
