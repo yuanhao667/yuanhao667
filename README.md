@@ -28,82 +28,16 @@
 <a id="work"></a>
 <h3><big>精选作品</big></h3>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="./profile-projects.svg" width="100%" alt="精选作品：Prompt Studio、Model Battle、WearCue 与 Codex Skills，各项目介绍与技术方向。">
 
-### 01 / Prompt Studio
-
-**给 Prompt 一个认真工作的地方。**
-
-原生 macOS Prompt 工作台。结构化编辑、AI 参考稿并排对照、版本回溯，让每一次修改都有迹可循。
-
-<sub>macOS · Prompt 编辑 · 版本管理</sub>
-
-[查看项目 ↗](https://github.com/yuanhao667/Prompt-Studio)
-
-<br>
-
-</td>
-<td width="50%" valign="top">
-
-### 02 / Model Battle
-
-**同一个任务，看看不同模型怎么做。**
-
-在 Mac 上并行调用多个模型，对照输出、耗时与 Token 用量。支持文本、图片、音频和视频任务。
-
-<sub>Apple Silicon · 多模型对比 · 多模态</sub>
-
-[查看项目 ↗](https://github.com/yuanhao667/model-battle)
-
-<br>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 / WearCue
-
-**每天少想一件事，穿什么。**
-
-结合天气与出行场景的 AI 穿搭助手。保存自己的穿搭灵感，把今天的天气变成可以照着穿的建议。
-
-<sub>AI 生活应用 · 天气穿搭 · 邀请制体验</sub>
-
-[查看项目 ↗](https://github.com/yuanhao667/wearcue)
-
-<br>
-
-</td>
-<td width="50%" valign="top">
-
-### 04 / Codex Skills
-
-**把反复做的工作，整理成可复用的方法。**
-
-面向产品、写作、AI 评测与文档整理的 Skills。每个都有明确的适用场景，可以按需独立安装。
-
-<sub>Agent Skills · 产品工作流 · 内容创作</sub>
-
-[浏览 Skills ↗](https://github.com/yuanhao667/Skills)
-
-<br>
-
-</td>
-</tr>
-</table>
+[01 / Prompt Studio ↗](https://github.com/yuanhao667/Prompt-Studio) · [02 / Model Battle ↗](https://github.com/yuanhao667/model-battle) · [03 / WearCue ↗](https://github.com/yuanhao667/wearcue) · [04 / Codex Skills ↗](https://github.com/yuanhao667/Skills)
 
 <br>
 
 <a id="how-i-work"></a>
 <h3><big>我如何工作</big></h3>
 
-| 产品判断 | 原型与构建 | 知识沉淀 |
-| :--- | :--- | :--- |
-| 从用户任务和使用场景出发，明确产品要解决的问题，再用评测检查实际效果。 | 把需求与交互做成可操作的原型和工具，通过真实使用发现问题、持续修改。 | 把分析、写作与复盘整理成文档，让反复验证过的方法成为可复用的 Skills。 |
-| `PRD` · `产品分析` · `评测助手` | `Figma` · `Codex` · `Prompt Studio` | `飞书` · `Notion` · `Markdown` · `Skills` |
+<img src="./profile-workflow.svg" width="100%" alt="我如何工作：从用户任务出发做产品判断，通过原型和真实使用持续修改，把分析、写作与复盘沉淀为文档和 Skills。">
 
 <br>
 
