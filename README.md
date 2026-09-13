@@ -28,9 +28,14 @@
 <a id="work"></a>
 <h3><big>精选作品</big></h3>
 
-<img src="./profile-projects.svg" width="100%" alt="精选作品：Prompt Studio、Model Battle、WearCue 与 Codex Skills，各项目介绍与技术方向。">
-
-[01 / Prompt Studio ↗](https://github.com/yuanhao667/Prompt-Studio) · [02 / Model Battle ↗](https://github.com/yuanhao667/model-battle) · [03 / WearCue ↗](https://github.com/yuanhao667/wearcue) · [04 / Codex Skills ↗](https://github.com/yuanhao667/Skills)
+<p>
+  <a href="https://github.com/yuanhao667/Prompt-Studio"><img src="./project-prompt-studio.svg" width="49%" alt="01 / Prompt Studio — 给 Prompt 一个认真工作的地方。查看项目 ↗"></a>
+  <a href="https://github.com/yuanhao667/model-battle"><img src="./project-model-battle.svg" width="49%" alt="02 / Model Battle — 同一个任务，看看不同模型怎么做。查看项目 ↗"></a>
+</p>
+<p>
+  <a href="https://github.com/yuanhao667/wearcue"><img src="./project-wearcue.svg" width="49%" alt="03 / WearCue — 每天少想一件事，穿什么。查看项目 ↗"></a>
+  <a href="https://github.com/yuanhao667/Skills"><img src="./project-skills.svg" width="49%" alt="04 / Codex Skills — 把反复做的工作，整理成可复用的方法。浏览 Skills ↗"></a>
+</p>
 
 <br>
 
