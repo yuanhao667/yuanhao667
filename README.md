@@ -3,7 +3,7 @@
 </p>
 
 <a id="about"></a>
-## 你好，我是 Yuanhao
+## 你好，我是圆号
 
 **AI PM · AI Designer · AI Builder**
 
