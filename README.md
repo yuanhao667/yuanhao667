@@ -13,7 +13,6 @@
 
 <p align="left">
   <a href="#about"><img src="./badge-about.svg" height="26" alt="关于我 · About"></a>&nbsp;
-  <a href="#work"><img src="./badge-work.svg" height="26" alt="精选作品 · Projects"></a>&nbsp;
   <a href="https://github.com/yuanhao667/Skills"><img src="./badge-skills.svg" height="26" alt="Skills · Browse"></a>&nbsp;
   <a href="https://github.com/yuanhao667?tab=repositories"><img src="./badge-repos.svg" height="26" alt="全部项目 · GitHub"></a>
 </p>
@@ -21,20 +20,6 @@
 <p align="left">
   <a href="https://www.xiaohongshu.com/user/profile/5b83e0b5f43cbe000168305f"><img src="./badge-xiaohongshu.svg" height="26" alt="小红书 · Follow"></a>&nbsp;
   <img src="./badge-wechat.svg" height="26" alt="公众号 · 圆号未定稿">
-</p>
-
-<br>
-
-<a id="work"></a>
-<h3><big>精选作品</big></h3>
-
-<p>
-  <a href="https://github.com/yuanhao667/Prompt-Studio"><img src="./project-prompt-studio.svg" width="49%" alt="01 / Prompt Studio — 给 Prompt 一个认真工作的地方。查看项目 ↗"></a>
-  <a href="https://github.com/yuanhao667/model-battle"><img src="./project-model-battle.svg" width="49%" alt="02 / Model Battle — 同一个任务，看看不同模型怎么做。查看项目 ↗"></a>
-</p>
-<p>
-  <a href="https://github.com/yuanhao667/wearcue"><img src="./project-wearcue.svg" width="49%" alt="03 / WearCue — 每天少想一件事，穿什么。查看项目 ↗"></a>
-  <a href="https://github.com/yuanhao667/Skills"><img src="./project-skills.svg" width="49%" alt="04 / Codex Skills — 把反复做的工作，整理成可复用的方法。浏览 Skills ↗"></a>
 </p>
 
 <br>
