@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="570" viewBox="0 0 1200 570" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">Yuanhao 的 Python 代码名片</title>
-<desc id="desc">name: Yuanhao; roles: AI PM, AI Designer, AI Builder; builds: Prompt Studio, Model Battle, WearCue; wechat: 圆号未定稿; skills: 产品, 写作, 评测。</desc>
+<desc id="desc">name: Yuanhao; roles: AI PM, AI Designer, AI Builder; builds: Prompt Studio, Model Battle, WearCue; 微信公众号（WeChat Official Account）: 圆号未定稿; skills: 产品, 写作, 评测。</desc>
 <style>
 text {white-space:pre;font-family:Menlo,'SFMono-Regular',Consolas,'Liberation Mono','PingFang SC','Microsoft YaHei',monospace}
 .line {fill:#263445;font-size:21px}
@@ -30,7 +30,7 @@ text {white-space:pre;font-family:Menlo,'SFMono-Regular',Consolas,'Liberation Mo
 <text x="48" y="183" class="num">03</text><text x="96" y="183">    <tspan class="key">"name"</tspan><tspan class="pun">:   </tspan><tspan class="str">"Yuanhao"</tspan><tspan class="pun">,</tspan></text>
 <text x="48" y="217" class="num">04</text><text x="96" y="217">    <tspan class="key">"roles"</tspan><tspan class="pun">:  [</tspan><tspan class="str">"AI PM"</tspan><tspan class="pun">, </tspan><tspan class="str">"AI Designer"</tspan><tspan class="pun">, </tspan><tspan class="str">"AI Builder"</tspan><tspan class="pun">],</tspan></text>
 <text x="48" y="251" class="num">05</text><text x="96" y="251">    <tspan class="key">"builds"</tspan><tspan class="pun">: [</tspan><tspan class="str">"Prompt Studio"</tspan><tspan class="pun">, </tspan><tspan class="str">"Model Battle"</tspan><tspan class="pun">, </tspan><tspan class="str">"WearCue"</tspan><tspan class="pun">],</tspan></text>
-<text x="48" y="285" class="num">06</text><text x="96" y="285">    <tspan class="key">"wechat"</tspan><tspan class="pun">: </tspan><tspan class="str">"圆号未定稿"</tspan><tspan class="pun">,</tspan></text>
+<text x="48" y="285" class="num">06</text><text x="96" y="285">    <tspan class="key">"wechat_official_account"</tspan><tspan class="pun">: </tspan><tspan class="str">"圆号未定稿"</tspan><tspan class="pun">,</tspan></text>
 <text x="48" y="319" class="num">07</text><text x="96" y="319">    <tspan class="key">"skills"</tspan><tspan class="pun">: [</tspan><tspan class="str">"产品"</tspan><tspan class="pun">, </tspan><tspan class="str">"写作"</tspan><tspan class="pun">, </tspan><tspan class="str">"评测"</tspan><tspan class="pun">],</tspan></text>
 <text x="48" y="353" class="num">08</text><text x="96" y="353" class="pun">}</text>
 <text x="48" y="387" class="num">09</text>
