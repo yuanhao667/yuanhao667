@@ -21,7 +21,7 @@ text {white-space:pre;font-family:Menlo,'SFMono-Regular',Consolas,'Liberation Mo
 <path d="M1 66H1199" stroke="#D7DFE8"/>
 <circle cx="32" cy="34" r="6" fill="#F07873"/><circle cx="55" cy="34" r="6" fill="#EAC16B"/><circle cx="78" cy="34" r="6" fill="#299768"/>
 <text x="114" y="40" font-size="16" fill="#344256">yuanhao.py</text>
-<text x="600" y="40" text-anchor="middle" font-size="13" letter-spacing="2" fill="#68788B">A PERSONAL PROFILE, WRITTEN IN PYTHON</text>
+<text x="600" y="36" text-anchor="middle" font-size="13" letter-spacing="2" fill="#68788B">A PERSONAL PROFILE, WRITTEN IN PYTHON</text>
 <circle class="pulse" cx="1122" cy="35" r="4" fill="#299768"/><text x="1137" y="40" font-size="12" fill="#299768">.py</text>
 <text x="48" y="110" class="num">01</text><text x="96" y="110" font-size="19" fill="#738093"># 把想法做成工具，把经验写成 Skills。</text>
 <rect class="active" x="81" y="126" width="1070" height="31" rx="4" fill="#E2ECF7" opacity=".75"/>
